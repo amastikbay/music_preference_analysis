@@ -1,6 +1,6 @@
 # Music preference analysis
 
-Data
+## Data
 
 The following data on listening to tracks from the yandex music service was extracted:
 
@@ -14,8 +14,12 @@ Day of listening;
 Time of listening;
 Task
 
-Compare the musical preferences of Yandex.Music users living in Springfield and Shelbyville. Compare listening on Monday, Wednesday and Friday by city, and compare the genres that users listen to on Monday morning and Friday evening in Springfield and Shelbyvill.
+## Tasks
 
-Language: Python
-Tool: VS code
-Libraries: Pandas
+1. Compare the musical preferences of Yandex.Music users living in Springfield and Shelbyville.
+2. Compare listening on Monday, Wednesday and Friday by city
+3. Compare the genres that users listen to on Monday morning and Friday evening in Springfield and Shelbyvill.
+
+**Language: Python**
+**Tool: VS code**
+**Libraries: Pandas**
