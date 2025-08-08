@@ -20,6 +20,6 @@ Task
 2. Compare listening on Monday, Wednesday and Friday by city
 3. Compare the genres that users listen to on Monday morning and Friday evening in Springfield and Shelbyvill.
 
-**Language: Python**
-**Tool: VS code**
+**Language: Python**;
+**Tool: VS code**;
 **Libraries: Pandas**
